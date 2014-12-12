@@ -14,8 +14,8 @@ Installation
 
 ### Get templates
 
-- Download ZIP: https://github.com/Gruss-MRRC/m2html-templates/archive/master.zip
-- Clone git repo: `git clone https://github.com/Gruss-MRRC/m2html-templates.git`
+- Download ZIP: https://github.com/whokilledtheelectricmonk/m2html-templates/archive/master.zip
+- Clone git repo: `git clone https://github.com/whokilledtheelectricmonk/m2html-templates.git`
 
 Place the templates alongside the other folders in `m2html`/`templates`.
 
