@@ -3,8 +3,6 @@ m2html-templates
 
 Better-looking templates for the Matlab-to-HTML documentation generator
 
-MRRC-styled templates for the [Matlab-to-HTML][m2html] documentation generator
-
 Installation
 ----------
 
